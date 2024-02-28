@@ -1,19 +1,15 @@
-# barbershop
+# About DapperCuts
+A responsive landing page website for a company that runs a chain of barber shops across the country. \
+This is built using Vue Js and Tailwind CSS.
 
-## Project setup
-```
-npm install
-```
+Explore the live version via 
+<a href="https://dappercuts.vercel.app/"> this link</a>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+It looks like below:
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+<img src="screens/dap.png" width="900"/>
+
+
+
